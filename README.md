@@ -7,13 +7,13 @@ An interactive HR Analytics Dashboard built in **Microsoft Power BI** to help HR
 ## 📸 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](Pics/Executive%20Summary.png)
+![Executive Summary](https://github.com/Kadhiravan2002/HR_Dashboard/blob/8c02362ea5a7c2c57a8909888b1791007f4cdbbd/Pics/Executive%2520Summary.png)
 
 ### Employee Overview
-![Employee Overview](Pics/Employee%20Overview.png)
+![Employee Overview](https://github.com/Kadhiravan2002/HR_Dashboard/blob/8c02362ea5a7c2c57a8909888b1791007f4cdbbd/Pics/Employee%2520Overview.png)
 
 ### Employee Details
-![Employee Details](Pics/Employee%20Details.png)
+![Employee Details](https://github.com/Kadhiravan2002/HR_Dashboard/blob/8c02362ea5a7c2c57a8909888b1791007f4cdbbd/Pics/Employee%2520Details.png)
 
 > **Note:** Update the image paths if your screenshots have different filenames.
 
